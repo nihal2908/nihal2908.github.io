@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nihal Yadav
- 🚀 Passionate about building cool apps with Flutter.<br>🛠️ Currently learning GoLang and diving into backend development.<br>💻 Languages & Frameworks: Flutter, Dart, GoLang, C++, JavaScript.<br>🎯 Always learning, always coding.<br>📫 Let's connect and create something awesome!
+ 🚀 Passionate about building cool apps with Flutter.<br>🛠️ Currently learning GoLang and diving into backend development.<br>💻 Languages & Frameworks: Flutter, Dart, GoLang, C++.<br>📫 Let's connect and create something awesome!
 
 
 ## 🌐 Socials:
